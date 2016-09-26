@@ -1,0 +1,688 @@
+####################
+# Original Trilogy
+####################
+
+// Damage Sources
+death.attack.melee=%1$s was pummeled
+death.attack.blaster.player=%2$s blasted %1$s to bits
+death.attack.saber.player=%1$s was no match for the lightsaber of %2$s
+
+// Items
+item.starwarsmod.hiltMetalCompound.name=Компонент рукояти меча
+item.starwarsmod.hiltMetalAlloy.name=Сплав для рукояти меча
+item.starwarsmod.plasmaEmitter.name=Излучатель плазмы
+item.starwarsmod.containmentField.name=Удерживающее поле
+item.starwarsmod.lightsaberCrystal.name=Кибер кристалл
+item.starwarsmod.banthaHorn.name=Рог Банты
+item.starwarsmod.imperialCredit.name=Бронзовая Имперская монета 
+item.starwarsmod.silverImperialCredit.name=Серебряная имперская монета
+item.starwarsmod.goldImperialCredit.name=Золотая имперская монета 
+item.starwarsmod.chromiumDust.name=Хромиум пыль
+item.starwarsmod.titaniumChromiumDust.name=Титаниум-хромиум пыль
+item.starwarsmod.titaniumChromiumIngot.name=Титаниум-хромиум слиток
+item.starwarsmod.titaniumDust.name=Титаниум пыль
+item.starwarsmod.hyperdriveEngine.name=Гипердвигатель
+item.starwarsmod.hyperdriveMotivator.name=Мотиватор гипердвигателя
+item.starwarsmod.waterDroplet.name=Капля воды
+item.starwarsmod.idScanner.name=ID Сканер
+item.starwarsmod.lightsaberNew.name=Световой меч
+item.starwarsmod.cortosisIngot.name=Cortosis слиток
+item.starwarsmod.thorolideIngot.name=Thorolide слиток
+item.starwarsmod.diatiumIngot.name=Diatium слиток
+item.starwarsmod.exoniumIngot.name=Exonium слиток
+item.starwarsmod.ioniteIngot.name=Ionite слиток
+item.starwarsmod.rubindumIngot.name=Rubindum слиток
+item.starwarsmod.heliciteIngot.name=Helicite слиток
+item.starwarsmod.keleriumIngot.name=Kelerium слиток
+item.starwarsmod.questContainer.name=Quest Log
+item.starwarsmod.slopeWizard.name=Slope Wizard
+item.starwarsmod.powerpack.name=Блок питания
+item.starwarsmod.holocron.name=Голокрон (Holocron)
+item.starwarsmod.cyclingFieldEnergizer.name=Cycling Field Energizer
+item.starwarsmod.magneticStabilizingRing.name=Magnetic Stabilizing Ring
+item.starwarsmod.powerVortexRing.name=Power Vortex Ring
+item.starwarsmod.energyModulationCircuit.name=Energy Modulation Circuit
+item.starwarsmod.airsealGel.name=гель Airseal
+item.starwarsmod.diatiumPowerCell.name=Diatium Батарейка
+item.starwarsmod.energyGate.name=Силовые ворота
+item.starwarsmod.focusingCrystal.name=Фокусирующий кристалл
+item.starwarsmod.apexSeal.name=Уплотнение вершины ротора (Apex Seal)
+item.starwarsmod.inertPowerInsulator.name=Инертный изолятор мощности (для меча)
+item.starwarsmod.wampaHorn.name=Рог Вампы
+item.starwarsmod.tieSchematics.name=TIE/LN Starfighter Schematics
+item.starwarsmod.rebelDataDrive.name=Накопитель данных Сопротивления
+item.starwarsmod.reactorCore.name=Ядро реактора
+item.starwarsmod.dataPad.name=Планшет
+item.starwarsmod.xwingSchematics.name=T-65 X-Wing Starfighter Schematics
+item.starwarsmod.sithArtifact.name=Артефакт Ситхов
+
+// Tools
+item.starwarsmod.droidCaller.name=Призыватель дройдов
+item.starwarsmod.droidHacker.name=Взломщик дройдов
+item.starwarsmod.binocularsHoth.name=TD2.3 Электронный бинокль
+item.starwarsmod.binocularsTatooine.name=MB450 Бинокль
+item.starwarsmod.hydrospanner.name=Гидроключ
+
+// Food
+item.starwarsmod.banthaChop.name=Bantha Chop
+item.starwarsmod.banthaChopCooked.name=Cooked Bantha Chop
+item.starwarsmod.banthaMilk.name=Молоко Банты
+item.starwarsmod.acidBeets.name=Acid Beets
+item.starwarsmod.dewbackRibs.name=Dewback Ribs
+item.starwarsmod.canron.name=Canron
+item.starwarsmod.chasuka.name=Chasuka
+item.starwarsmod.banthaPlatter.name=Bantha Platter
+item.starwarsmod.gorrnar.name=Gorrnar
+
+// Weapons
+item.starwarsmod.gaffiStick.name=Палка Gaderffii (Gaffi Stick)
+item.starwarsmod.lightsaber.name=Световой меч
+item.starwarsmod.lightsaberOff.name=Световой меч
+item.starwarsmod.ewokSpear.name=Копьё Эвока
+item.starwarsmod.gamorreanAx.name=Топор Gamorrean
+item.starwarsmod.gamorreanAx2.name=Топор Gamorrean
+item.starwarsmod.gamorreanAx3.name=Посох Gamorrean
+item.starwarsmod.vibroLance.name=Виброкопьё
+
+// Blasters
+item.starwarsmod.blasterPistol.Dl44.name=BlasTech DL-44 Тяжелый пистолет
+item.starwarsmod.blasterPistol.Dl18.name=BlasTech DL-18 Пистолет-бластер
+item.starwarsmod.blasterPistol.Dh17.name=BlasTech DH-17 Пистолет-бластер
+item.starwarsmod.blasterPistol.Sporting.name=D.D.C. Defender Пистолет-бластер
+item.starwarsmod.blasterPistol.Dl21.name=BlasTech DL-21 Пистолет-бластер
+item.starwarsmod.blasterPistol.Scout.name=BlasTech EC-17 Пистолет-бластер
+item.starwarsmod.blasterPistol.Se14c.name=BlasTech SE-14C Пистолет-бластер
+
+item.starwarsmod.blasterHeavy.Dlt19.name=BlasTech DLT-19 Тяжелое ружье
+item.starwarsmod.blasterHeavy.T21.name=BlasTech T-21 Тяжелое ружье
+item.starwarsmod.blasterHeavy.Rt97c.name=BlasTech RT-97C Тяжелое ружье
+
+item.starwarsmod.blasterRifle.A280.name=BlasTech A-280 Ружье
+item.starwarsmod.blasterRifle.Ee3.name=BlasTech EE-3 Carbine Ружье
+item.starwarsmod.blasterRifle.Ionization.name=Ионизирующее рудье
+item.starwarsmod.blasterRifle.Cycler.name=Ружье Tusken Cycler
+item.starwarsmod.blasterRifle.Stormtrooper.name=BlasTech E-11 Ружье
+item.starwarsmod.bowcaster.name=Арбалет Вуки
+
+// Music Discs
+item.starwarsmod.musicDisc.name=Пластинка
+item.starwarsmod.musicDiscdrift.desc=Пластинка Tokyo Drift - Teriyaki Boyz
+
+// Hyperdrives
+item.starwarsmod.hyperdriveTatooine.name=Гипердвигатель на Татуин (Tatooine)
+item.starwarsmod.hyperdriveEarth.name=Гипердвигатель на Землю
+item.starwarsmod.hyperdriveHoth.name=Гипердвигатель на Хот (Hoth)
+item.starwarsmod.hyperdriveYavinFour.name=Гипердвигатель на Явин-4 (Yavin 4)
+item.starwarsmod.hyperdriveKashyyyk.name=Гипердвигатель на Кашиик (Kashyyyk)
+item.starwarsmod.hyperdriveEndor.name=Гипердвигатель на Эндор (Endor)
+item.starwarsmod.hyperdriveDagobah.name=Гипердвигатель на Дагобах (Dagobah)
+item.starwarsmod.hyperdriveIlum.name=Гипердвигатель на Илюм (Ilum)
+item.starwarsmod.hyperdriveMustafar.name=Гипердвигатель на Мустафар (Mustafar)
+item.starwarsmod.hyperdriveSpace.name=Гипердвигатель в космос (Space)
+
+// Droid Items
+item.starwarsmod.spawnAstromech.name=R2-Series Дройд астромеханик
+item.starwarsmod.spawnAstromech2.name=R5-Series Дройд астромеханик
+item.starwarsmod.spawnAstromechImperial.name=R2-Series Дройд астромеханик
+item.starwarsmod.spawnAstromechImperial2.name=R5-Series Дройд астромеханик
+item.starwarsmod.spawnProtocol.name=3PO-Series Протокольный дроид
+item.starwarsmod.spawnProtocol2.name=3PO-Series Протокольный дроид
+item.starwarsmod.spawnGonk.name=Дроид питания GNK
+item.starwarsmod.spawnSurgical.name=2-1B Медицинский дройд
+item.starwarsmod.spawnMouse.name=MSE-6 Дройд ремонтник
+item.starwarsmod.spawnProbe.name=Гадюка — разведывательный дроид
+
+// Droids
+entity.starwarsmod.droidAstromech.name=R2-Series Дройд астромеханик
+entity.starwarsmod.droidAstromech2.name=R5-Series Дройд астромеханик
+entity.starwarsmod.droidAstromechImperial.name=R2-Series Дройд астромеханик
+entity.starwarsmod.droidAstromechImperial2.name=R5-Series Дройд астромеханик
+entity.starwarsmod.droidProtocol.name=3PO-Series Протокольный дроид
+entity.starwarsmod.droidProtocol2.name=3PO-Series Протокольный дроид
+entity.starwarsmod.droidGonk.name=Дроид питания GNK
+entity.starwarsmod.droidSurgical.name=2-1B Медицинский дройд
+entity.starwarsmod.droidMouse.name=MSE-6 Дройд ремонтник
+entity.starwarsmod.droidProbe.name=Гадюка — разведывательный дроид
+
+// Vehicle Items
+item.starwarsmod.spawnHothSpeederBike.name=Гравицикл 74-Z
+item.starwarsmod.spawnSpeederBike.name=Гравицикл 74-Z
+item.starwarsmod.spawnLandspeeder.name=X-34 Лэндспидер
+item.starwarsmod.spawnTIE.name=TIE/LN Истребитель
+item.starwarsmod.spawnTIEInterceptor.name=TIE/IN Перехватчик
+item.starwarsmod.spawnTIEAdvanced.name=TIE Advanced x1
+item.starwarsmod.spawnTIEBomber.name=TIE/SA Бомбардировщик
+item.starwarsmod.spawnXwing.name=T-65 X-Wing Истребитель
+item.starwarsmod.spawnYwing.name=BTL Y-Wing Истребитель
+item.starwarsmod.spawnAwing.name=RZ-1 A-Wing Перехватчик
+item.starwarsmod.spawnSkyhopper.name=T-16 Скайхоппер
+item.starwarsmod.spawnSnowspeeder.name=T-47 Аэроспидер
+item.starwarsmod.spawnAtst.name=AT-ST
+item.starwarsmod.spawnScootemaround.name=Scoot-'Em-Around
+item.starwarsmod.spawnScootemaroundHoth.name=Scoot-'Em-Around
+
+// Vehicles
+entity.starwarsmod.speederBike.name=74-Z Гравицикл
+entity.starwarsmod.landspeeder.name=X-34 Лэндспидер
+entity.starwarsmod.tie.name=TIE/LN Истребитель
+entity.starwarsmod.tieInterceptor.name=TIE/IN Перехватчик
+entity.starwarsmod.xwing.name=T-65 X-Wing Истребитель
+entity.starwarsmod.awing.name=RZ-1 A-Wing Перехватчик
+
+// Blocks
+tile.starwarsmod.moistureVaporator.name=GX-8 Конденсатор влаги
+tile.starwarsmod.chromiumOre.name=Chromium Руда
+tile.starwarsmod.titaniumOre.name=Titanium Руда
+tile.starwarsmod.thorolideOre.name=Thorolide Руда
+tile.starwarsmod.exoniumOre.name=Exonium Руда
+tile.starwarsmod.cortosisOre.name=Cortosis Руда
+tile.starwarsmod.ioniteOre.name=Ionite Руда
+tile.starwarsmod.keleriumOre.name=Kelerium Руда
+tile.starwarsmod.heliciteOre.name=Helicite Руда
+tile.starwarsmod.rubindumOre.name=Rubindum Руда
+tile.starwarsmod.diatiumOre.name=Diatium Руда
+tile.starwarsmod.crystalBlack.name=Руда киберкристалла (Черный)
+tile.starwarsmod.crystalBlue.name=Руда киберкристалла (Синий)
+tile.starwarsmod.crystalCyan.name=Руда киберкристалла (Голубой)
+tile.starwarsmod.crystalGray.name=Руда киберкристалла (Серый)
+tile.starwarsmod.crystalGreen.name=Руда киберкристалла (Зелёный)
+tile.starwarsmod.crystalPink.name=Руда киберкристалла (Розовый)
+tile.starwarsmod.crystalPurple.name=Руда киберкристалла (Феолетовый)
+tile.starwarsmod.crystalWhite.name=Руда киберкристалла (Белый)
+tile.starwarsmod.crystalYellow.name=Руда киберкристалла (Желтый)
+tile.starwarsmod.crystalPrism.name=Руда киберкристалла (Призма)
+tile.starwarsmod.tatooineSand.name=Песок Татуина
+tile.starwarsmod.ilumStone.name=Камень Илюм
+tile.starwarsmod.deathStarGlass.name=Стекло базы
+tile.starwarsmod.deathStarBlock.name=Интерьер базы
+tile.starwarsmod.deathStarLight.name=Освещение базы
+tile.starwarsmod.holoTable.0.name=Голографический стол (Малый)
+tile.starwarsmod.holoTable.1.name=Голографический стол (Средний)
+tile.starwarsmod.holoTable.2.name=Голографический стол (Большой)
+tile.starwarsmod.holoTable.3.name=Голографический стол (War)
+tile.starwarsmod.endorBaseWall.name=Стена базы
+tile.starwarsmod.endorBaseWallStairs.name=Ступени базы
+tile.starwarsmod.titaniumChromiumBlock.name=Блок Титаниум-Хромиум
+tile.starwarsmod.spaceLamp.name=Космическая лампа
+tile.starwarsmod.tatooineSandstone.name=Песчаник Татуина
+tile.starwarsmod.table.name=Стол
+tile.starwarsmod.fieldEmitter.name=Генератор поля
+tile.starwarsmod.cauldronHanging.name=Подвисной котёл
+tile.starwarsmod.mudStairs.name=Грязевые ступени Дагобаха
+tile.starwarsmod.dagobahMud.name=Грязь Дагобах
+tile.starwarsmod.mudTable.name=Стол из грязи Дагобах
+tile.starwarsmod.bucketHanging.name=Подвисной ковш
+tile.starwarsmod.basket.name=Корзина
+tile.starwarsmod.deathStarDoor.name=Дверь базы
+tile.starwarsmod.bactaTank.name=Бакта-камера (лечебная)
+tile.starwarsmod.templeStone.name=Камень Храма
+tile.starwarsmod.templeStoneSlab.name=Плита Харма
+tile.starwarsmod.templeStoneLit.name=Камень Храма (Lit)
+tile.starwarsmod.templeStoneSlabLit.name=Плита Харма (Lit)
+tile.starwarsmod.ancientJediStatue.name=Древняя статуя Джедаев
+tile.starwarsmod.sensor.VehicXWing.name=Спавнер X-Wing 
+tile.starwarsmod.sensor.VehicAWing.name=Спавнер A-Wing
+tile.starwarsmod.sensor.VehicYWing.name=Спавнер Y-Wing
+tile.starwarsmod.antenna.name=Антенна
+tile.starwarsmod.hyperdriveBlock.name=Блок гипердвигателя
+tile.starwarsmod.multiHeight.templeStone.name=Мультиразмерная Плита Харма
+tile.starwarsmod.templeStoneStairs.name=Ступени Храма
+tile.starwarsmod.templeStoneStairsBrick.name=Ступени Храма
+tile.starwarsmod.templeStoneStairsBrickFancy.name=Ступени Храма
+tile.starwarsmod.templeStoneStairsSlabTop.name=Ступени Храма
+tile.starwarsmod.templeStoneStairsSlabTopDark.name=Ступени Храма
+tile.starwarsmod.lightsaberForge.name=Кузница световых мечей
+tile.starwarsmod.crystalCompressor.name=Компрессор кристаллов
+tile.starwarsmod.deathStarLightFence.name=Забор (интерьер базы) (Lit)
+tile.starwarsmod.deathStarLightStairs.name=Ступени (интерьер базы) (Lit)
+tile.starwarsmod.focusingCrystalOre.name=Руда фокусировки кристаллов
+tile.starwarsmod.hothSandbag.name=Предупреждающая полоса (интерьер базы)
+tile.starwarsmod.hothSnowCut.name=Снег (интерьер базы)
+tile.starwarsmod.hothDoor.name=Материал дверей базы
+tile.starwarsmod.pipeMass.name=Труба
+tile.starwarsmod.floorLight.name=Напольные светильники
+tile.starwarsmod.ladder.name=Лестница
+tile.starwarsmod.holotableMass.name=Командная консоль
+tile.starwarsmod.pipeClampedMass.name=Труба
+tile.starwarsmod.pipeSleevedMass.name=Труба
+tile.starwarsmod.hothCeilingLight.name=Точечный светильник
+tile.starwarsmod.hothCeilingLight2.name=Точечный светильник
+tile.starwarsmod.blockConsoleHoth1.name=Командная консоль
+tile.starwarsmod.blockConsoleHoth2.name=Командная консоль
+tile.starwarsmod.blockConsoleHoth3.name=Командная консоль
+tile.starwarsmod.blockPanelHoth.name=Командная консоль
+tile.starwarsmod.medicalConsole.name=Командная консоль
+tile.starwarsmod.medicalConsole2.name=Командная консоль
+tile.starwarsmod.pipeDoubleOffsetBot.name=Труба
+tile.starwarsmod.pipeDoubleOffsetBotSpecial.name=Труба
+tile.starwarsmod.floorLight2.name=Напольный светильник
+tile.starwarsmod.crate1.name=Упаковочная корзина
+tile.starwarsmod.crateHoth1.name=Упаковочная корзина
+tile.starwarsmod.crateHoth2.name=Упаковочная корзина
+tile.starwarsmod.hardenedClayStairs.name=Покрытие Sandcrawler
+tile.starwarsmod.hardenedClaySlab.name=Покрытие Sandcrawler
+tile.starwarsmod.snowSlab.name=Снежная плита
+tile.starwarsmod.gunRack.name=Стеллаж с оружием
+tile.starwarsmod.doorHoth.name=Дверь базы
+tile.starwarsmod.target.name=Манекен
+tile.starwarsmod.hardpackSnow.name=Жесткий снег
+item.starwarsmod.hothSign.name=Табличка Хот (Hoth)
+
+// Armor
+item.starwarsmod.newJediRobes.name=Роба джедая
+
+item.starwarsmod.endorHelmet.name=Шлем повстанца с Эндора
+item.starwarsmod.endorChestplate.name=Нагрудник повстанца с Эндора
+item.starwarsmod.endorLeggings.name=Штаны повстанца с Эндора
+item.starwarsmod.endorBoots.name=Ботинки повстанца с Эндора
+
+item.starwarsmod.hothHelmet.name=Шлем повстанца с Хота
+item.starwarsmod.hothChestplate.name=Нагрудник повстанца с Хота
+item.starwarsmod.hothLeggings.name=Штаны повстанца с Хота
+item.starwarsmod.hothBoots.name=Ботинки повстанца с Хота
+
+item.starwarsmod.bobaHelmet.name=Шлем охотника за головами (Bounty Hunter)
+item.starwarsmod.bobaChestplate.name=Нагрудник охотника за головами (Bounty Hunter)
+item.starwarsmod.bobaJetpackChestplate.name=Нагрудник с джетпаком охотника за головами (Bounty Hunter)
+item.starwarsmod.bobaJetpack.name=Двигатель джетпака
+item.starwarsmod.bobaLeggings.name=Штаны охотника за головами (Bounty Hunter)
+item.starwarsmod.bobaBoots.name=Ботинки охотника за головами (Bounty Hunter)
+
+item.starwarsmod.stormtrooperHelmet.name=Шлем Stormtrooper
+item.starwarsmod.stormtrooperChestplate.name=Нагрудник Stormtrooper
+item.starwarsmod.stormtrooperLeggings.name=Штаны Stormtrooper
+item.starwarsmod.stormtrooperBoots.name=Ботинки Stormtrooper
+
+item.starwarsmod.snowtrooperHelmet.name=Шлем Snowtrooper
+item.starwarsmod.snowtrooperChestplate.name=Нагрудник Snowtrooper
+item.starwarsmod.snowtrooperLeggings.name=Штаны Snowtrooper
+item.starwarsmod.snowtrooperBoots.name=Ботинки Snowtrooper
+
+item.starwarsmod.scoutTrooperHelmet.name=Шлем Scout Trooper
+item.starwarsmod.scoutTrooperChestplate.name=Нагрудник Scout Trooper
+item.starwarsmod.scoutTrooperLeggings.name=Штаны Scout Trooper
+item.starwarsmod.scoutTrooperBoots.name=Ботинки Scout Trooper
+
+item.starwarsmod.shadowTrooperHelmet.name=Shadowtrooper Helmet
+item.starwarsmod.shadowTrooperChestplate.name=Shadowtrooper Chestplate
+item.starwarsmod.shadowTrooperLeggings.name=Shadowtrooper Leggings
+item.starwarsmod.shadowTrooperBoots.name=Shadowtrooper Boots
+
+item.starwarsmod.sandtrooperHelmet.name=Sandtrooper Helmet
+item.starwarsmod.sandtrooperChestplate.name=Sandtrooper Chestplate
+item.starwarsmod.sandtrooperLeggings.name=Sandtrooper Leggings
+item.starwarsmod.sandtrooperBoots.name=Sandtrooper Boots
+
+item.starwarsmod.rebelPilotHelmet.name=Rebel Pilot Helmet
+item.starwarsmod.rebelPilotChestplate.name=Rebel Pilot Chestplate
+item.starwarsmod.rebelPilotLeggings.name=Rebel Pilot Pants
+item.starwarsmod.rebelPilotBoots.name=Rebel Pilot Boots
+
+item.starwarsmod.rebelYPilotHelmet.name=Rebel Y-Wing Pilot Helmet
+item.starwarsmod.rebelYPilotChestplate.name=Rebel Y-Wing Pilot Chestplate
+item.starwarsmod.rebelYPilotLeggings.name=Rebel Y-Wing Pilot Pants
+item.starwarsmod.rebelYPilotBoots.name=Rebel Y-Wing Pilot Boots
+
+item.starwarsmod.rebelAPilotHelmet.name=Rebel A-Wing Pilot Helmet
+item.starwarsmod.rebelAPilotChestplate.name=Rebel A-Wing Pilot Chestplate
+item.starwarsmod.rebelAPilotLeggings.name=Rebel A-Wing Pilot Pants
+item.starwarsmod.rebelAPilotBoots.name=Rebel A-Wing Pilot Boots
+
+item.starwarsmod.rebelTrooperHelmet.name=Rebel Fleet Trooper Helmet
+item.starwarsmod.rebelTrooperChestplate.name=Rebel Fleet Trooper Chestplate
+item.starwarsmod.rebelTrooperLeggings.name=Rebel Fleet Trooper Pants
+item.starwarsmod.rebelTrooperBoots.name=Rebel Fleet Trooper Boots
+
+item.starwarsmod.atatPilotHelmet.name=AT-AT Pilot Helmet
+item.starwarsmod.atatPilotChestplate.name=AT-AT Pilot Chestplate
+item.starwarsmod.atatPilotLeggings.name=AT-AT Pilot Pants
+item.starwarsmod.atatPilotBoots.name=AT-AT Pilot Boots
+
+item.starwarsmod.atstPilotHelmet.name=AT-ST Pilot Helmet
+item.starwarsmod.atstPilotChestplate.name=AT-ST Pilot Chestplate
+item.starwarsmod.atstPilotLeggings.name=AT-ST Pilot Pants
+item.starwarsmod.atstPilotBoots.name=AT-ST Pilot Boots
+
+item.starwarsmod.tiePilotHelmet.name=TIE Pilot Helmet
+item.starwarsmod.tiePilotChestplate.name=TIE Pilot Chestplate
+item.starwarsmod.tiePilotLeggings.name=TIE Pilot Pants
+item.starwarsmod.tiePilotBoots.name=TIE Pilot Boots
+
+item.starwarsmod.leiasBuns.name=Пучок принцессы Леи
+
+// Mobs
+entity.starwarsmod.wookiee.name=Вуки
+entity.starwarsmod.tusken.name=Tusken Raider
+entity.starwarsmod.jawa.name=Jawa
+entity.starwarsmod.tauntaun.name=Tauntaun
+entity.starwarsmod.bantha.name=Банта
+entity.starwarsmod.ewok.name=Эвок
+entity.starwarsmod.wampa.name=Вампа
+entity.starwarsmod.dewback.name=Dewback
+entity.starwarsmod.gamorrean.name=Gamorrean Guard
+entity.starwarsmod.commoner.name=Tatooine Villager
+entity.starwarsmod.sandtrooper.name=Sandtrooper
+entity.starwarsmod.stormtrooper.name=Stormtrooper
+entity.starwarsmod.scouttrooper.name=Scout Trooper
+entity.starwarsmod.snowtrooper.name=Snowtrooper
+entity.starwarsmod.atatPilot.name=Пилот AT-AT
+entity.starwarsmod.tiePilot.name=Пилот TIE
+entity.starwarsmod.endorRebel.name=Повстанец Эндора
+entity.starwarsmod.hothRebel.name=Повстанец Хота
+entity.starwarsmod.rebelPilot.name=Пилот сопротивления
+entity.starwarsmod.bountyhunter.name=Охотник за наградой
+entity.starwarsmod.bith.name=Бит
+
+// Tabs
+itemGroup.tabStarWars=Оригинальная трилогия
+itemGroup.tabStarWarsBlocks=Оригинальная трилогия - Блоки
+
+// Achievements
+achievement.starwarsmod.becomeJedi=No such thing as luck!
+achievement.starwarsmod.becomeJedi.desc=Скрафти робу джедая и начни своё путешествие!
+
+achievement.starwarsmod.craftHyperdrive=Kessel Run in 12 Parsecs!
+achievement.starwarsmod.craftHyperdrive.desc=Скрафти свой первый гипердвигатель!
+
+achievement.starwarsmod.craftLightsaber=Элегантный бой!
+achievement.starwarsmod.craftLightsaber.desc=Скрафти свой первый световой меч!
+
+achievement.starwarsmod.fireBlaster=Han shot first!
+achievement.starwarsmod.fireBlaster.desc=Выстрелить из бластера!
+
+achievement.starwarsmod.travelTatooine=Опасайся песчаных людей!
+achievement.starwarsmod.travelTatooine.desc=Добраться до Татуина!
+
+achievement.starwarsmod.travelHoth=They smell worse inside!
+achievement.starwarsmod.travelHoth.desc=Travel to Hoth!
+
+achievement.starwarsmod.travelYavin=That's no moon!
+achievement.starwarsmod.travelYavin.desc=Travel to Yavin 4!
+
+achievement.starwarsmod.travelEndor=Secret back entrance!
+achievement.starwarsmod.travelEndor.desc=Travel to Endor!
+
+achievement.starwarsmod.travelKashyyyk=Walking carpet!
+achievement.starwarsmod.travelKashyyyk.desc=Travel to Kashyyyk!
+
+achievement.starwarsmod.travelSpace=Destination Unknown!
+achievement.starwarsmod.travelSpace.desc=Travel to Space!
+
+achievement.starwarsmod.travelIlum=Back to Roots!
+achievement.starwarsmod.travelIlum.desc=Travel to Ilum!
+
+achievement.starwarsmod.travelDagobah=Slimy Mudhole!
+achievement.starwarsmod.travelDagobah.desc=Travel to Dagobah!
+
+achievement.starwarsmod.ezraBlaster=Not a Pickpocket!
+achievement.starwarsmod.ezraBlaster.desc=Use Ezra's Secret Blaster!
+
+// Keys
+key.starwarsmod=Звёздные войны
+key.starwarsmod.shootVehicle=Выстрелить лазерами (в технике)
+key.starwarsmod.toggleSFoil=Раскрыть специальные крылья
+key.starwarsmod.robeGui=Открыть меню робы джедая
+key.starwarsmod.robePower=Использовать выбранную Силу робы
+key.starwarsmod.robePowerNext=Предыдущая Сила робы
+key.starwarsmod.robePowerPrev=Следующая Сила робы
+key.starwarsmod.lsForge=Кузница Светового меча
+key.starwarsmod.debug=DEBUG
+key.starwarsmod.lsToggle=Включить-выключить Световой меч
+key.starwarsmod.shipHoverMode=Включить-выключить парящий режим (в звездолётах)
+key.starwarsmod.shipHyperdrive=Открыть карту Галактики (в звездолётах)
+key.starwarsmod.shootSpecial=Выстрелить спецоружием (в звездолётах)
+
+// Force
+force.power.jump=Прыжок
+force.power.push=Толчек
+force.power.pull=Притянуть
+force.power.defend=Защитить
+force.power.disable=Отключить
+force.power.deflect=Отразить
+force.power.grab=Захватить
+force.power.healing=Лечение
+force.power.naturalAwareness=Природная мутация
+force.power.slow=Замедление
+force.power.drainKnowledge=Высосать Знание
+force.power.lightning=Молния
+force.power.destruction=Разрушение
+force.power.saberThrow=Бросок меча
+
+force.power.jump.desc=Используй свое знание Силы чтобы подбросить себя в воздух.  Максимум 5 уровней, первый уровень позволяет прыгнуть на 2 блока, каждый новый уровень позволяет на 1 блок выше, чем предыдущий.
+force.power.push.desc=Используй свое знание Силы оттолкнуть противника от себя.  Максимум 5 уровней, первый уровень позволяет толкнуть на 2 блока, каждый новый уровень позволяет толкнуть на 2 блока дальше, и немного быстрее.
+force.power.pull.desc=Используй свое знание Силы to pull entities towards yourself.  Максимум 5 уровней, первый уровень позволяет pul 2 blocks, each new level lets you pull entities from 2 blocks further away and slightly faster.
+force.power.defend.desc=Используй свое знание Силы to absorb damage for a short time.  No level cap, первый уровень позволяет absorb 1 health point worth of damage, каждый новый уровень позволяет absorb 1 more health point.
+force.power.disable.desc=Используй свое знание Силы to halt your enemies in their tracks. каждый новый уровень  makes the enemy disabled 1 second longer.
+force.power.deflect.desc=Используй свое знание Силы to deflect incoming projectiles and blaster fire.
+force.power.grab.desc=Используй свое знание Силы to freeze entities and move them around at your will.
+force.power.healing.desc=Используй свое знание светлой стороны Силы to heal yourself and others.
+force.power.naturalAwareness.desc=Используй свое знание светлой стороны Силы to heal the natural world around you.
+force.power.slow.desc=Используй свое знание темной стороны Силы to slow your enemie's movements. Each new level makes the enemy slow 1 second longer.
+force.power.drainKnowledge.desc=Используй свое знание темной стороны Силы to steal power from other Force users.
+force.power.lightning.desc=Используй свое знание темной стороны Силы to engulf your enemies in deadly Sith Lightning.
+force.power.destruction.desc=Используй свое знание темной стороны Силы to send massive explosive energy hurdling towards your enemies.
+
+####################
+# Sequel Trilogy
+####################
+
+// Weapons
+item.starwarsmod.sequelLightsaber.name=Световой меч
+item.starwarsmod.sequelLightsaberOff.name=Световой меч
+
+// Droid Items
+item.starwarsmod.spawnAstromechBb8.name=BB-Series Дройд астромеханик
+
+// Droids
+entity.starwarsmod.droidAstromechBb8.name=BB-Series Дройд астромеханик
+
+// Blasters
+item.starwarsmod.sequelBlasterRifle.F11d.name=F-11D Ружье
+item.starwarsmod.sequelBlasterRifle.6.name=Definitely Canon #6
+item.starwarsmod.sequelBlasterRifle.Capt.name=F-11D Ружье капитана
+item.starwarsmod.sequelBlasterRifle.Projectile.name=Projectile Rifle
+item.starwarsmod.sequelBlasterRifle.Trandoshan.name=Пистолет SoroSuub Pistol with Trandoshan Tripler
+
+item.starwarsmod.sequelBlasterPistol.4.name=Пистолет Refurbished DH-17
+item.starwarsmod.sequelBlasterPistol.Officer.name=SE-44C Пистолет офицера 
+item.starwarsmod.sequelBlasterPistol.Se44c.name=SE-44C Пистолет
+item.starwarsmod.sequelBlasterPistol.TrandoshanTarget.name=Target Pistol with Trandoshan Doubler
+item.starwarsmod.sequelBlasterPistol.Huttsplitter.name=Huttsplitter
+
+// Armor
+item.starwarsmod.stormtrooperHelmet_new.name=Шлем First Order Stormtrooper
+item.starwarsmod.stormtrooperChestplate_new.name=Нагрудник First Order Stormtrooper
+item.starwarsmod.stormtrooperLeggings_new.name=Штаны First Order Stormtrooper
+item.starwarsmod.stormtrooperBoots_new.name=Ботинки First Order Stormtrooper
+
+item.starwarsmod.stormtrooperSilverHelmet_new.name=Шлем First Order Stormtrooper Captain's
+item.starwarsmod.stormtrooperSilverChestplate_new.name=Нагрудник First Order Stormtrooper Captain's
+item.starwarsmod.stormtrooperSilverLeggings_new.name=Штаны First Order Stormtrooper Captain's
+item.starwarsmod.stormtrooperSilverBoots_new.name=Ботинки First Order Stormtrooper Captain's
+
+// Vehicle Items
+item.starwarsmod.spawnJakkuSpeeder.name=Swoop спидер (Jakku) 
+
+// Vehicles
+entity.starwarsmod.jakkuSpeeder.name=Swoop спидер (Jakku) 
+
+// Blocks
+
+// Tabs
+itemGroup.tabStarWarsSequel=Продолжение Трилогии
+
+
+################
+# Internationalization
+################
+
+0.droplets=%s капель
+0.inside=%s внутрь
+0.s.holocron=%s's Холокрон (Holocron)
+0.s.quest.log=%s's Лог квеста
+0.side.length=%s side length
+0.ticks=%s ticks
+0.ticks.inside=%s ticks inside
+0.x.offset=%s X offset
+0.y.offset=%s Y offset
+0.z.offset=%s Z offset
+74.z.speeder.bike=74-Z байк
+a.dark.man.speaks.to.you=Темный человек говорит с тобой.
+activated=Активировано
+affiliation.0=Принадлежность: %s
+all.terrain.scout.transport=Шагоход AT-ST
+astro.type.s=Astro type: %s
+bartender=Бармен
+bith=Бит
+blade.length=Длина лезвия
+blade.length.long=Blade Length: Длинный
+blade.length.medium=Blade Length: Средний
+blade.length.short=Blade Length: Короткий
+blades=Лезвия
+blaster.firstOrder=Используется First Order Stormtroopers or something
+blaster.rifle1=Ружье-бластер был основным
+blaster.rifle2=оружием пехоты до того как
+blaster.rifle3=сформировалась Галактическая республика
+block.s.id.s=Блок: %s (ID %s)
+bowcaster.tooltip1=Я не боюсь Вуки,
+bowcaster.tooltip2=это их арбалеты пугают меня
+btl.y.wing.starfighter=BTL Y-Wing Истребитель
+class.s=Класс: %s
+closing=Закрытие
+colonies=Колонии
+core=Ядро
+corellian=Corellian
+couldn.t.add.leaderboard.stats=Couldn't add leaderboard stats!
+couldn.t.init.new.power=Не могу инициализировать новую Силу!
+course.plotted=Курс намечен
+current.level.s=Текущий уровень: %s
+custom.color=Настраиваемый цвет
+dagobah=Дагобах
+dark=Темный
+deactivated=Деактивировано
+deep.core=Глубокое ядро
+description.and.use=Описание и использование:
+dewback=Девбак
+do.you.accept=Вы принимаете?
+employed=Принят
+enabled.0=Включено: %s
+endor=Эндор
+entity.s.eid.s=Предмет: %s (eID %s)
+error.contacting.leaderboard.server=Error contacting leaderboard server!
+facing=Облицовка
+facing.0=Облицовка: %s
+fixed=Исправлено
+for.sale=На продажу
+force.xp.0.1=XP СИЛЫ: %s/%s
+gaffi.tooltip=Любой, у кого есть две руки, может держать gaderffi.
+gam.tooltip1=То, чего им не хватало в хитрости, 
+gam.tooltip2=они более чем восполнили в очень разрушительных ударах
+general.merchant=Основной торговец
+hacked=Взломано
+has.astro.s=Has astro: %s
+he.wants.to.share.his.secrets=Он хочет поделиться своими секретами.
+hilts=Рукоятки
+his.dark.knowledge=Его темное знание.
+holo.color=Цвет голограммы
+holo.x.offset=Holo X Сдвиг
+holo.y.offset=Holo Y Сдвиг
+holo.z.offset=Holo Z Сдвиг
+holocron.error.ship.is.null=[Holocron] Ошибка: корабль is null!
+holocron.error.you.must.have.a.holocron=[Holocron] Ошибка: У вас должен быть Holocron!
+holocron.set.0.to.1=[Holocron] Установить %s в %s.
+holocron.set.max.xp.to.0=[Holocron] Установить Max XP в %s.
+holocron.set.remaining.upgrade.points.to.0=[Holocron] Установить имеющиеся очки улучшений в %s.
+holocron.unknown.key=[Holocron] Неизвестный ключ!
+holocron.usage.0=[Holocron] Использование: %s
+hoth=Хот
+hover.mode.0=Режим парения %s
+ilum=Илюм
+inhabiting.species=Населяющие разновидности:
+inner.rim=Внутренний колесный диск
+invalid.args.usage.0=Недопустимые аргументы! Использование: %s
+jakku.speeder=Jakku спидер
+kashyyyk=Кашиик
+lance.tooltip1=Похоже на копье, но тут
+lance.tooltip2=что-то, что нам до конца
+lance.tooltip3=не понятно...
+leaderboard.thanks=Добро пожаловать на сервер Star Wars
+level.0=Уровень %s
+level.s.s=Уровень %s %s
+light=Свет
+locked=Закрыто
+meta.0=Мета: %s
+mid.rim=Mid Rim
+minerals=Минералы:
+moisture.vaporator=Уловитель влаги
+moons.0=Луны: %s
+moving.0=Движение: %s
+mustafar=Мустафар (Mustafar)
+never=Никогда.
+no=Нет
+none=Нет
+on=Вкл.
+opening=Открытие
+options=Опции
+outer.rim=Outer Rim
+owned=Приобретено
+owner.0=Владелец: %s
+pack.dewback=Упаковка-Dewback
+pack.tauntaun=Упаковка-Tauntaun
+presets=Настройки по умолчанию
+primary.terrain=Основная местность:
+program.navcom=Программа NavCom
+pswm.newversion=Доступна новая версия Parzi's Star Wars Mod: %s! Текущая: %s
+rebel.scoot.em.around=Rebel Scoot-'Em-Around
+recharge.time.s.seconds=Время перезарядки: %s seconds
+refresh=Обновить
+restrained=Умеренный
+rotate.0=Повернуть: %s
+rz.1.a.wing.interceptor=RZ-1 A-Wing Перехватчик
+s.available.upgrade.points=%s доступные очки улучшений
+saber.tooltip1=Это основное оружие Рыцаря Джедаев.
+saber.tooltipDeflect=Блокирует или отклоняет выстрелы бластеров.
+saber.tooltipToggle=Пригнуться + Правая кнопка мыши (или нажать %s) для вкл-выкл.
+sabercrystal.prism1=Когда вы берете её в руки
+sabercrystal.prism2=вы понимаете что она играет разными цветами...
+sabercrystal.shard1=Вы застонете, когда поймёте, что это не 
+sabercrystal.shard2=полный кристалл, а всего лишь осколок
+save=Сохранить
+ship.dealer=Продавец звездолетов
+show.me=Покажи мне.
+sneak.use.to.enable=Пригнитесь, чтобы использовать
+sneak.use.to.scan.someone.or.something=Пригнитесь, чтобы сканировать кого-либо или чот-либо
+space=Космос
+suns.0=Солнца: %s
+t.16.skyhopper=T-16 Skyhopper
+t.47.snowspeeder=T-47 Snowspeeder
+t.65b.x.wing.starfighter=T-65B X-Wing Истребитель
+tatooine=Татуин
+tauntaun=ТаунТаун
+the.forest.moon.of.endor=Лесная Луна Эндора
+tie.advanced.x1.starfighter=TIE Улучшеный x1 Звездолет
+tie.in.interceptor=TIE/IN Перехватчик
+tie.ln.starfighter=TIE/LN Звездолет
+tie.sa.bomber=TIE/SA Бомбардировщик
+tile.0=Плитка: %s
+toggle.alt.texture=Изменить Текстуру
+toggle.blade=Изменить Лезвие
+toggle.distortion=Изменить Искажение
+toggle.waterproof=Изменить водонепроницаемость
+unknown=НЕИЗВЕСТНЫЙ
+unrestrained=Несдержанный
+use.while.enabled.to.change.zoom=Используй пока включен, чтобы приблизить или удалить
+weapons.dealer=Торговец оружием
+x.34.landspeeder=X-34 Лэндспидер
+xp.use.s=XP/использовать: %s
+yavin.four=Явин-4
+yes=Да
+you.have.a.nightmare=У вас кошмары.
+your.ticket.to.the.galaxy=Ваш билет в Галактику
+zoom.factor.0.x=Приближение: %sx
+press.s.to.fire.lasers=Нажмите %s для выстрела из бластеров.
+droids=Дройды
+armor=Броня
+guns=Пушки
+ships=Корабли
+misc=Прочее
+melee=Рукопашный
